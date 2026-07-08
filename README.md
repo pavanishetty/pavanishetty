@@ -1,4 +1,4 @@
-### 👋 Hi, I'm @pavanishetty, shipping code by day and chasing ML rabbit holes by night.
+### 👋 Hi, I'm @pavanishetty, Software Engineer who ships code by day and geeks out over system design after hours.
 
 - 🤝 I love to collaborate on open-source projects
 - 🎧 Outside of work: good music and new things to learn
@@ -33,8 +33,3 @@
 | [DataStructures_and_Algorithms](https://github.com/pavanishetty/DataStructures_and_Algorithms) | Practice solutions to DS&A problems |
 
 ---
-
-#### 📊 GitHub Stats
-
-![Pavani's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavanishetty&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pavanishetty&layout=compact)
